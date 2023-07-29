@@ -1,6 +1,6 @@
 {
   "name": "toolbox-javascript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A javascript toolbox for lazy people who don't like writing functions",
   "main": "index.js",
   "scripts": {
