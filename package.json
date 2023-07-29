@@ -1,0 +1,38 @@
+{
+  "name": "javascript-toolbox",
+  "version": "1.0.0",
+  "description": "A helpful javascript functions just for people that doesn't like to convert date to string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reymundonahuel/javascript-utils.git"
+  },
+  "keywords": [
+    "javascript",
+    "utils",
+    "functions",
+    "date",
+    "convert"
+  ],
+  "author": "Nahuel Reymundo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reymundonahuel/javascript-utils/issues"
+  },
+  "homepage": "https://github.com/reymundonahuel/javascript-utils#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
