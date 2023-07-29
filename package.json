@@ -4,7 +4,7 @@
   "description": "A javascript toolbox for lazy people who don't like writing functions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "format": "prettier --write ."
   },
   "repository": {
@@ -29,6 +29,7 @@
     "typescript": "^5.1.6"
   },
   "devDependencies": {
+    "jest": "^29.6.2",
     "prettier": "^3.0.0"
   },
   "type": "module",
