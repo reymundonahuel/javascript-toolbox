@@ -1,7 +1,7 @@
 {
-  "name": "javascript-toolbox",
+  "name": "toolbox-javascript",
   "version": "1.0.0",
-  "description": "A helpful javascript functions just for people that doesn't like to convert date to string",
+  "description": "A javascript toolbox for lazy people who don't like writing functions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reymundonahuel/javascript-utils.git"
+    "url": "git+https://github.com/reymundonahuel/javascript-toolbox.git"
   },
   "keywords": [
     "javascript",
@@ -21,9 +21,9 @@
   "author": "Nahuel Reymundo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reymundonahuel/javascript-utils/issues"
+    "url": "https://github.com/reymundonahuel/javascript-toolbox/issues"
   },
-  "homepage": "https://github.com/reymundonahuel/javascript-utils#readme",
+  "homepage": "https://github.com/reymundonahuel/javascript-toolbox#readme",
   "dependencies": {
     "crypto": "^1.0.1",
     "typescript": "^5.1.6"
